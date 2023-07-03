@@ -10,7 +10,7 @@ function getSumOfAnArray(numbers) {
   return sum;
 }
 
-// function of sorting odd numbers
+// function of sorting odd numbers of an array
 function findOddSumOfAnArray(numbers) {
   let totalNumbersArray = [];
   for (let i = 0; i < numbers.length; i++) {
